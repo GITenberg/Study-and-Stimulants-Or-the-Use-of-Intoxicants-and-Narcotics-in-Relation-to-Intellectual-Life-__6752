@@ -1,0 +1,27 @@
+_repo: Study-and-Stimulants-Or-the-Use-of-Intoxicants-and-Narcotics-in-Relation-to-Intellectual-Life-__6752
+contributor:
+  creator:
+    editor:
+      agent_name: Reade, A. Arthur (Alfred Arthur)
+      birthdate: 1851
+      gutenberg_agent_id: '2189'
+      url: http://www.gutenberg.org/2009/agents/2189
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Alcoholic Intoxication'
+- !lcsh 'Stimulants'
+- !lcsh 'Narcotics'
+- !lcsh 'Alcoholism'
+title: "Study and Stimulants\r\nOr, the Use of Intoxicants and Narcotics in Relation\
+  \ to Intellectual Life, as Illustrated by Personal Communications on the Subject,\
+  \ from Men of Letters and of Science"
+url: http://www.gutenberg.org/ebooks/6752
