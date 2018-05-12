@@ -1,4 +1,5 @@
 _repo: Study-and-Stimulants-Or-the-Use-of-Intoxicants-and-Narcotics-in-Relation-to-Intellectual-Life-__6752
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,7 +7,12 @@ contributor:
       birthdate: 1851
       gutenberg_agent_id: '2189'
       url: http://www.gutenberg.org/2009/agents/2189
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6752#Study-and-Stimulants-Or-the-Use-of-Intoxicants-and-Narcotics-in-Relation-to-Intellectual-Life-_
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
